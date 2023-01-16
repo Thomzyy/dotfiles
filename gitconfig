@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mattelaer.thomas@hotmail.com
+	name = Thomas Mattelaer mattelaer.thomas@hotmail.com
